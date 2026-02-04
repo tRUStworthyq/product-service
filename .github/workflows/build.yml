@@ -56,5 +56,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: product-service/e-com:latest
+          tags: admin194/product-service:latest
 
